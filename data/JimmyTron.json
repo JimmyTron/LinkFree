@@ -1,0 +1,17 @@
+{
+  "name": "Sara Jaoude",
+  "bio": "Lawyer turned **Digital Nomad**. Travel enthusiast Yoga & Peloton aficionado",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/jimmytron_ke",
+      "icon": "FaTwitter"
+    }
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/james-oduor/",
+      "icon": "FaLinkedIn"
+    }
+  ]
+}
+note: do not have duplicate links (url)
